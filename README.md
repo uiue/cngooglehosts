@@ -1,12 +1,9 @@
 cngooglehosts
 =============
 
-the host for China geeks.
-you just need to copy the codes downside to C:/Windows/system32/drivers/etc/hosts
-my english is not so good so I hope you to understand it. 
-please add this page to your favorites and update it next time.
+将以下代码复制到hosts文件中（具体怎么加自己搜），便可以秒开google相关的网页了。
 
- #SmartHosts START
+*//#SmartHosts START
 
 74.125.21.98    0.docs.google.com<br>
 74.125.21.98    0.drive.google.com<br>
@@ -295,19 +292,19 @@ please add this page to your favorites and update it next time.
 74.125.21.51    adwords.google.com<br>
 74.125.21.98    talk.google.com<br>
 74.125.21.98    google.com<br>
-
+<br>
 74.125.21.98    plus.google.com<br>
 74.125.21.98    plus.url.google.com<br>
 74.125.21.98    plusone.google.com<br>
-
+<br>
 74.125.21.98    mail.google.com<br>
 74.125.25.189    filetransferenabled.mail.google.com<br>
 74.125.25.189    chatenabled.mail.google.com<br>
-
+<br>
 74.125.21.98    apis.google.com<br>
 74.125.21.98    clients6.google.com<br>
 74.125.202.95    talkgadget.google.com<br>
-
+<br>
 74.125.22.133    0-open-opensocial.googleusercontent.com<br>
 74.125.22.133    0-focus-opensocial.googleusercontent.com<br>
 74.125.22.133    1-focus-opensocial.googleusercontent.com<br>
@@ -316,22 +313,22 @@ please add this page to your favorites and update it next time.
 74.125.22.133    2-focus-opensocial.googleusercontent.com<br>
 74.125.22.133    2-open-opensocial.googleusercontent.com<br>
 74.125.22.133    2-ps.googleusercontent.com<br>
-74.125.22.133    3-focus-opensocial.googleusercontent.com<br>
-74.125.22.133    3-ps.googleusercontent.com<br>
-74.125.22.133    3hdrrlnlknhi77nrmsjnjr152ueo3soc-a-calendar-opensocial.googleusercontent.com<br>
-74.125.22.133    3-open-opensocial.googleusercontent.com<br>
-74.125.22.133    4-ps.googleusercontent.com<br>
-74.125.22.133    4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com<br>
-74.125.22.133    53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com<br>
-74.125.22.133    59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com<br>
-74.125.22.133    8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com<br>
-74.125.22.133    adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com<br>
-74.125.22.133    a-oz-opensocial.googleusercontent.com<br>
-74.125.22.133    blogger.googleusercontent.com<br>
-74.125.22.133    bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com<br>
-74.125.22.133    clients1.googleusercontent.com<br>
-74.125.22.133    clients2.googleusercontent.com<br>
-74.125.22.133    clients3.googleusercontent.com<br>
+74.125.22.133    3-focus-opensocial.googleusercontent.com
+74.125.22.133    3-ps.googleusercontent.com
+74.125.22.133    3hdrrlnlknhi77nrmsjnjr152ueo3soc-a-calendar-opensocial.googleusercontent.com
+74.125.22.133    3-open-opensocial.googleusercontent.com
+74.125.22.133    4-ps.googleusercontent.com
+74.125.22.133    4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
+74.125.22.133    53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
+74.125.22.133    59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
+74.125.22.133    8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
+74.125.22.133    adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
+74.125.22.133    a-oz-opensocial.googleusercontent.com
+74.125.22.133    blogger.googleusercontent.com
+74.125.22.133    bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
+74.125.22.133    clients1.googleusercontent.com
+74.125.22.133    clients2.googleusercontent.com
+74.125.22.133    clients3.googleusercontent.com
 74.125.22.133    clients4.googleusercontent.com
 74.125.22.133    clients5.googleusercontent.com
 74.125.22.133    clients6.googleusercontent.com
@@ -481,99 +478,99 @@ please add this page to your favorites and update it next time.
 74.125.26.141    r3101-dot-latest-dot-project-slingshot-gp.appspot.com
 74.125.26.141    r3269-dot-latest-dot-project-slingshot-gp.appspot.com
 74.125.26.141    r3432-dot-latest-dot-project-slingshot-hr.appspot.com
-74.125.26.141    r4681-dot-latest-dot-project-slingshot-hr.appspot.com
-74.125.26.141    r7647-dot-latest-dot-project-slingshot-hr.appspot.com
-74.125.26.141    wcproxyx.appspot.com
-74.125.26.141    balsamiqgdrive.appspot.com
-74.125.26.141    www.appspot.com
+74.125.26.141    r4681-dot-latest-dot-project-slingshot-hr.appspot.com<br>
+74.125.26.141    r7647-dot-latest-dot-project-slingshot-hr.appspot.com<br>
+74.125.26.141    wcproxyx.appspot.com<br>
+74.125.26.141    balsamiqgdrive.appspot.com<br>
+74.125.26.141    www.appspot.com<br>
+<br>
+74.125.26.82    autoproxy-gfwlist.googlecode.com<br>
+74.125.26.82    chromium.googlecode.com<br>
+74.125.26.82    closure-library.googlecode.com<br>
+74.125.26.82    earth-api-samples.googlecode.com<br>
+74.125.26.82    gmaps-samples-flash.googlecode.com<br>
+74.125.26.82    google-code-feed-gadget.googlecode.com<br>
+74.125.26.82    smarthosts.googlecode.com<br>
+<br>
+74.125.21.98    blogsearch.google.cn<br>
+74.125.21.98    ditu.google.cn<br>
+74.125.21.98    gg.google.cn<br>
+74.125.21.98    id.google.cn<br>
+74.125.21.98    maps.gstatic.cn<br>
+74.125.21.98    m.google.cn<br>
+74.125.21.98    mt.google.cn<br>
+74.125.21.98    mt0.google.cn<br>
+74.125.21.98    mt1.google.cn<br>
+74.125.21.98    mt2.google.cn<br>
+74.125.21.98    mt3.google.cn<br>
+74.125.21.98    news.google.cn<br>
+74.125.21.98    scholar.google.cn<br>
+74.125.21.98    translate.google.cn<br>
+74.125.21.98    www.google.cn<br>
+74.125.21.98    www.gstatic.cn<br>
+74.125.21.98    clients1.google.com.hk<br>
+74.125.21.98    accounts.google.com.hk<br>
+74.125.21.98    blogsearch.google.com.hk<br>
+74.125.21.98    books.google.com.hk<br>
+74.125.21.98    desktop.google.com.hk<br>
+74.125.21.98    encrypted.google.com.hk<br>
+74.125.21.98    groups.google.com.hk<br>
+74.125.21.98    gxc.google.com.hk<br>
+74.125.21.98    id.google.com.hk<br>
+74.125.21.98    images.google.com.hk<br>
+74.125.21.98    m.google.com.hk<br>
+74.125.21.98    maps.google.com.hk<br>
+74.125.21.98    news.google.com.hk<br>
+74.125.21.98    picasaweb.google.com.hk<br>
+74.125.21.98    plus.url.google.com.hk<br>
+74.125.21.98    scholar.google.com.hk<br>
+74.125.21.98    toolbar.google.com.hk<br>
+74.125.21.98    toolbarqueries.google.com.hk<br>
+74.125.21.98    translate.google.com.hk<br>
+74.125.21.98    translate.google.com.hk<br>
+74.125.21.98    wenda.google.com.hk<br>
+74.125.21.98    www.google.com.hk<br>
+74.125.21.98    accounts.youtube.com<br>
+74.125.21.98    apiblog.youtube.com<br>
+74.125.21.98    help.youtube.com<br>
+74.125.21.98    insight.youtube.com<br>
+74.125.21.98    m.youtube.com<br>
+74.125.21.98    ytimg.l.google.com<br>
+74.125.21.98    www.youtube.com<br>
+74.125.21.98    i.ytimg.com<br>
+74.125.21.98    i1.ytimg.com<br>
+74.125.21.98    i2.ytimg.com<br>
+74.125.21.98    i3.ytimg.com<br>
+74.125.21.98    i4.ytimg.com<br>
+74.125.21.98    s.ytimg.com<br>
+74.125.21.98    android.googlesource.com<br>
+74.125.21.98    gerrit.googlesource.com<br>
+74.125.21.98    auth.keyhole.com<br>
+74.125.21.98    chrome.angrybirds.com<br>
+74.125.21.98    developer.android.com<br>
+74.125.21.98    domains.googlesyndication.com<br>
+74.125.21.98    earthengine.googlelabs.com<br>
+74.125.21.98    feeds.feedburner.com<br>
+74.125.21.98    g.co<br>
+74.125.21.98    goo.gl<br>
+74.125.21.98    golang.org<br>
+74.125.21.98    listen.googlelabs.com<br>
+74.125.21.98    m.googlemail.com<br>
+74.125.21.98    market.android.com<br>
+74.125.21.98    ngrams.googlelabs.com<br>
+74.125.21.98    www.googleadservices.com<br>
+74.125.21.98    www.googlelabs.com<br>
+74.125.21.98    www.googlesource.com<br>
+74.125.21.98    www.orkut.com<br>
+74.125.21.98    www.blogger.com<br>
+74.125.21.98    accounts.blogger.com<br>
+74.125.21.98    www.panoramio.com<br>
+74.125.21.98    panoramio.com<br>
+74.125.21.98    static.panoramio.com<br>
+74.125.21.98    tpc.googlesyndication.com<br>
+74.125.21.98    uberproxy.corp.google.com<br>
+74.125.21.98    developer.chrome.com<br>
+74.125.21.97    ssl.google-analytics.com<br>
+74.125.21.98    www.google-analytics.com<br>
 
-74.125.26.82    autoproxy-gfwlist.googlecode.com
-74.125.26.82    chromium.googlecode.com
-74.125.26.82    closure-library.googlecode.com
-74.125.26.82    earth-api-samples.googlecode.com
-74.125.26.82    gmaps-samples-flash.googlecode.com
-74.125.26.82    google-code-feed-gadget.googlecode.com
-74.125.26.82    smarthosts.googlecode.com
-
-74.125.21.98    blogsearch.google.cn
-74.125.21.98    ditu.google.cn
-74.125.21.98    gg.google.cn
-74.125.21.98    id.google.cn
-74.125.21.98    maps.gstatic.cn
-74.125.21.98    m.google.cn
-74.125.21.98    mt.google.cn
-74.125.21.98    mt0.google.cn
-74.125.21.98    mt1.google.cn
-74.125.21.98    mt2.google.cn
-74.125.21.98    mt3.google.cn
-74.125.21.98    news.google.cn
-74.125.21.98    scholar.google.cn
-74.125.21.98    translate.google.cn
-74.125.21.98    www.google.cn
-74.125.21.98    www.gstatic.cn
-74.125.21.98    clients1.google.com.hk
-74.125.21.98    accounts.google.com.hk
-74.125.21.98    blogsearch.google.com.hk
-74.125.21.98    books.google.com.hk
-74.125.21.98    desktop.google.com.hk
-74.125.21.98    encrypted.google.com.hk
-74.125.21.98    groups.google.com.hk
-74.125.21.98    gxc.google.com.hk
-74.125.21.98    id.google.com.hk
-74.125.21.98    images.google.com.hk
-74.125.21.98    m.google.com.hk
-74.125.21.98    maps.google.com.hk
-74.125.21.98    news.google.com.hk
-74.125.21.98    picasaweb.google.com.hk
-74.125.21.98    plus.url.google.com.hk
-74.125.21.98    scholar.google.com.hk
-74.125.21.98    toolbar.google.com.hk
-74.125.21.98    toolbarqueries.google.com.hk
-74.125.21.98    translate.google.com.hk
-74.125.21.98    translate.google.com.hk
-74.125.21.98    wenda.google.com.hk
-74.125.21.98    www.google.com.hk
-74.125.21.98    accounts.youtube.com
-74.125.21.98    apiblog.youtube.com
-74.125.21.98    help.youtube.com
-74.125.21.98    insight.youtube.com
-74.125.21.98    m.youtube.com
-74.125.21.98    ytimg.l.google.com
-74.125.21.98    www.youtube.com
-74.125.21.98    i.ytimg.com
-74.125.21.98    i1.ytimg.com
-74.125.21.98    i2.ytimg.com
-74.125.21.98    i3.ytimg.com
-74.125.21.98    i4.ytimg.com
-74.125.21.98    s.ytimg.com
-74.125.21.98    android.googlesource.com
-74.125.21.98    gerrit.googlesource.com
-74.125.21.98    auth.keyhole.com
-74.125.21.98    chrome.angrybirds.com
-74.125.21.98    developer.android.com
-74.125.21.98    domains.googlesyndication.com
-74.125.21.98    earthengine.googlelabs.com
-74.125.21.98    feeds.feedburner.com
-74.125.21.98    g.co
-74.125.21.98    goo.gl
-74.125.21.98    golang.org
-74.125.21.98    listen.googlelabs.com
-74.125.21.98    m.googlemail.com
-74.125.21.98    market.android.com
-74.125.21.98    ngrams.googlelabs.com
-74.125.21.98    www.googleadservices.com
-74.125.21.98    www.googlelabs.com
-74.125.21.98    www.googlesource.com
-74.125.21.98    www.orkut.com
-74.125.21.98    www.blogger.com
-74.125.21.98    accounts.blogger.com
-74.125.21.98    www.panoramio.com
-74.125.21.98    panoramio.com
-74.125.21.98    static.panoramio.com
-74.125.21.98    tpc.googlesyndication.com
-74.125.21.98    uberproxy.corp.google.com
-74.125.21.98    developer.chrome.com
-74.125.21.97    ssl.google-analytics.com
-74.125.21.98    www.google-analytics.com
-
- #SmartHosts END
+/#SmartHosts END
