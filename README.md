@@ -8,7 +8,7 @@ please add this page to your favorites and update it next time.
 
 #SmartHosts START
 
-74.125.21.98    0.docs.google.com
+74.125.21.98    0.docs.google.com <br>
 74.125.21.98    0.drive.google.com
 74.125.21.98    1.docs.google.com
 74.125.21.98    1.drive.google.com
